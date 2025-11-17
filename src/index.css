@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'Azonix';
+    src: url('./assets/fonts/Azonix.otf') format('truetype');
+}
+
+.azonix {
+    font-family: 'Azonix', sans-serif;
+}
+
+
+
+body{
+    background-color: black;
+}
